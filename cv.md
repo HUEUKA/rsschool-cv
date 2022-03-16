@@ -36,3 +36,20 @@ $$ \frac{n!}{k!(n-k)} $$
     print(compute_binom(n, k))
     ```
 ---
+## Education:
+* __Gomel State Professional Lyceum of Mechanical Engineering №78__
+    * Faculty of Mechanical Engineering, 2012 - 2015.
+* __Courses:__
+    * __Stepik:__
+        * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/promo#toc)
+        * [Основы HTML и CSS](https://stepik.org/course/52164/syllabus)
+    * __WayUP:__
+        * [BACKEND-РАЗРАБОТЧИК: ОРБИТА МЕЧТЫ](https://wayup.in/cabinet/course20) (suspended)
+    * __RS Schools:__
+        * [«JavaScript/Front-end. Stage  0»](https://rs.school/js-stage0/) (in progress)
+
+---
+## About me:
+My name is Anton. I am 25 years old. I come from Belarussa, I live in Gomel. I am a communicative person. My best qualities are reliable and hard-working. If I am interested in something, I plunge headlong into this process. I want changed my job and came to the decision that I want to become a web developer.
+
+---
