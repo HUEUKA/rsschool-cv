@@ -22,7 +22,7 @@
 ## Code Examples:
 _Write a function `compute_binom(n, k)`, which takes two natural numbers as arguments `n` and `k` and returns the binomial coefficient value, equal:_
 $$ \frac{n!}{k!(n-k)} $$
-    ```
+```
     def compute_binom(n, k):
      from math import factorial
       n1 = factorial(n)
@@ -34,7 +34,7 @@ $$ \frac{n!}{k!(n-k)} $$
     k = int(input())
 
     print(compute_binom(n, k))
-    ```
+```
 ---
 ## Education:
 * __Gomel State Professional Lyceum of Mechanical Engineering №78__
