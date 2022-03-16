@@ -53,3 +53,13 @@ $$ \frac{n!}{k!(n-k)} $$
 My name is Anton. I am 25 years old. I come from Belarussa, I live in Gomel. I am a communicative person. My best qualities are reliable and hard-working. If I am interested in something, I plunge headlong into this process. I want changed my job and came to the decision that I want to become a web developer.
 
 ---
+## Work experience:
+* No work experience yet.
+
+---
+## Languages:
+__English:__ A1 (begginer)
+__Russian:__ Native speaker
+__Itaian:__ C1
+
+---
